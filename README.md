@@ -5,8 +5,7 @@ The purpose of this repository is to provide a multi-dimensional implementation 
 
 For videos, these frames can be turned to video/GIFs with tools such as [`ImageMagic`](https://github.com/ImageMagick/ImageMagick) or [`imageio`](http://imageio.github.io/).
 
-<p align="center">
-  <img  src="https://github.com/alexandrosstergiou/Inception_v3_TV_Human_Interactions/blob/master/inception_v3_activations_vis/layer_1_conv2d_1.png"></p>
+
 
 *Heatmaps of 3D ResNet50 trained on UCF-101*
 
