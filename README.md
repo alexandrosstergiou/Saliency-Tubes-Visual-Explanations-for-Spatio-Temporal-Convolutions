@@ -7,8 +7,6 @@ For videos, these frames can be turned to video/GIFs with tools such as [`ImageM
 
 
 
-*Heatmaps of 3D ResNet50 trained on UCF-101*
-
 
 
 ## Installation
