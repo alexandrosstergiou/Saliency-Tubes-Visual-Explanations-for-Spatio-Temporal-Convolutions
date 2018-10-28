@@ -3,7 +3,7 @@
 
 [![Bugzilla bug status](https://img.shields.io/github/issues/alexandrosstergiou/Keras-3DCNN-Heatmap.svg)](https://github.com/alexandrosstergiou/Keras-3DCNN-Heatmap/issues)
 [![license](https://img.shields.io/github/license/alexandrosstergiou/Keras-3DCNN-Heatmap.svg)](https://github.com/alexandrosstergiou/Keras-3DCNN-Heatmap/blob/master/LICENSE)
-
+[![GitHub language count](https://img.shields.io/badge/library-Keras-red.svg)](https://keras.io/)
 
 ## About
 The purpose of this repository is to provide a multi-dimensional implementation of the heatmap visualisation for Deep Learning models in volumetric data. The output of the script is a folder containing consecutive frames. The base for the script has been Gabriel de Marmiesse's easy-to-follow [repo](https://github.com/gabrieldemarmiesse/heatmaps) of his heatmap implementation.
