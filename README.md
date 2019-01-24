@@ -1,4 +1,4 @@
-# Keras Heatmaps for 3D Convolutions
+# Saliency Tubes: Visual Explanations for Spatio-Temporal Convolutions
 
 ![supported versions](https://img.shields.io/badge/python-2.7%2C%203.5-green.svg)
 [![Bugzilla bug status](https://img.shields.io/github/issues/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions.svg)](https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions/issues)
