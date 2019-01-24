@@ -10,7 +10,14 @@ The purpose of this repository is to provide a multi-dimensional implementation 
 
 For videos, these frames can be turned to video/GIFs with tools such as [`ImageMagic`](https://github.com/ImageMagick/ImageMagick) or [`imageio`](http://imageio.github.io/).
 
-
+<p float="left">
+<img src="https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions/blob/master/examples/cliff_diving.gif" width="120" height="120" /> 
+<img src="https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions/blob/master/examples/rafting.gif" width="120" height="120" />
+  <img src="https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions/blob/master/examples/bowling.gif" width="120" height="120" /> 
+<img src="https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions/blob/master/examples/opening_door.gif" width="120" height="120" /> 
+<img src="https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions/blob/master/examples/washing.gif" width="120" height="120" />
+  <img src="https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions/blob/master/examples/opening_drawer.gif" width="120" height="120" /> 
+</p>
 
 
 
