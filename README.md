@@ -19,7 +19,7 @@ Please make sure, Git is installed in your machine:
 ```sh
 $ sudo apt-get update
 $ sudo apt-get install git
-$ git clone https://github.com/alexandrosstergiou/Keras-3DCNN-Heatmap.git
+$ git clone https://github.com/alexandrosstergiou/Saliency-Tubes-Visual-Explanations-for-Spatio-Temporal-Convolutions.git
 ```
 
 ## Dependencies
