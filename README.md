@@ -5,12 +5,18 @@
 [![license](https://img.shields.io/github/license/alexandrosstergiou/Keras-3DCNN-Heatmap.svg)](https://github.com/alexandrosstergiou/Keras-3DCNN-Heatmap/blob/master/LICENSE)
 [![GitHub language count](https://img.shields.io/badge/library-pytorch%2Ckeras-blue.svg)](https://keras.io/)
 
-## Abstract
+## Introduction
 Deep learning approaches have been established as the main methodology for video classification and recognition. Recently, 3-dimensional convolutions have been used to achieve state-of-the-art performance in many challenging video datasets. Because of the high level of complexity of these methods, as the convolution operations are also extended to additional dimension in order to extract features from them as well, providing a visualization for the signals that the network interpret as informative, is a challenging task. An effective notion of understanding the network's inner-workings would be to isolate the spatio-temporal regions on the video that the network finds most informative. We propose a method called Saliency Tubes which demonstrate the foremost points and regions in both frame level and over time that are found to be the main focus points of the network. We demonstrate our findings on widely used datasets for third-person and egocentric action classification and enhance the set of methods and visualizations that improve 3D Convolutional Neural Networks (CNNs) intelligibility.
 
-We have recently made available the full paper on arxiv: [https://arxiv.org/pdf/1902.01078.pdf](https://arxiv.org/pdf/1902.01078.pdf)
 
-More visualisations can be found in our youtube video: [https://youtu.be/JANUqoMc3es](https://youtu.be/JANUqoMc3es)
+<p align="center">
+<i>To appear in <a href="http://2019.ieeeicip.org/">IEEE International Conference on Image Processing (ICIP) 2019</a> &nbsp;&nbsp;&nbsp;</i>
+<br>
+<a href="https://arxiv.org/pdf/1902.01078.pdf" target="_blank">[arXiv preprint]</a>
+ &nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/watch?v=JANUqoMc3es&feature=youtu.be" target="_blank">[video presentation]</a>
+</p>
+
 
 For videos, these frames can be turned to video/GIFs with tools such as [`ImageMagic`](https://github.com/ImageMagick/ImageMagick) or [`imageio`](http://imageio.github.io/).
 
@@ -43,6 +49,15 @@ $ pip install scipy
 ## License
 MIT
 
+## Citing Saliency Tubes
+If you use our code in your research, please use the following BibTeX entry:
+
+    @article{stergiou2019saliency,
+    title={Saliency Tubes: Visual Explanations for Spatio-Temporal Convolutions},
+    author={Stergiou, Alexandros and Kapidis, Georgios and Kalliatakis, Grigorios and Chrysoulas, Christos and Veltkamp, Remco and Poppe, Ronald},
+    journal={arXiv preprint arXiv:1902.01078},
+    year={2019}
+    }
 
 ## Contact
 Alexandros Stergiou
