@@ -14,6 +14,8 @@ Deep learning approaches have been established as the main methodology for video
 <br>
 <a href="https://arxiv.org/pdf/1902.01078.pdf" target="_blank">[arXiv preprint]</a>
  &nbsp;&nbsp;&nbsp;
+<a href="https://ieeexplore.ieee.org/abstract/document/8803153" target="_blank">[IEEE Xplore]</a>
+ &nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=JANUqoMc3es&feature=youtu.be" target="_blank">[video presentation]</a>
 </p>
 
@@ -52,12 +54,15 @@ MIT
 ## Citing Saliency Tubes
 If you use our code in your research, please use the following BibTeX entry:
 
-    @article{stergiou2019saliency,
-    title={Saliency Tubes: Visual Explanations for Spatio-Temporal Convolutions},
+    @inproceedings{stergiou2019saliency,
+    title={Saliency tubes: Visual explanations for spatio-temporal convolutions},
     author={Stergiou, Alexandros and Kapidis, Georgios and Kalliatakis, Grigorios and Chrysoulas, Christos and Veltkamp, Remco and Poppe, Ronald},
-    journal={arXiv preprint arXiv:1902.01078},
-    year={2019}
+    booktitle={2019 IEEE International Conference on Image Processing (ICIP)},
+    pages={1830--1834},
+    year={2019},
+    organization={IEEE}
     }
+
 
 ## Contact
 Alexandros Stergiou
